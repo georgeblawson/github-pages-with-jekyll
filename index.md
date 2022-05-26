@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Writing My First Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi, welsome to my first every blog post, I'm glad you managed to find this page ♥️
